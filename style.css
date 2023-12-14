@@ -45,6 +45,10 @@ section h1, footer h1, nav a
     font-weight: normal;
     text-transform: uppercase;
 }
+section h1
+{
+    color:red;
+}
 
 /* Header */
 
